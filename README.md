@@ -8,9 +8,9 @@ MANUAL:
 * El juego acaba solo de dos formas: "Winner" o "Dead".
 * "Dead" se mostrará como:
 * =====
-* =   O
+* =     O
 * = --|--
-* =  | |
+* =  |  |
 * =
 * ======
 * Las palabras en cada partida se generan de forma aleatoria.
