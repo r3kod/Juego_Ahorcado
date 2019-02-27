@@ -7,12 +7,12 @@ MANUAL:
 
 * El juego acaba solo de dos formas: "Winner" o "Dead".
 * "Dead" se mostrará como:
-- =====
-- =   O
-- = --|--
-- =  | |
-- =
-- ======
+# =====
+# =   O
+# = --|--
+# =  | |
+# =
+# ======
 * Las palabras en cada partida se generan de forma aleatoria.
 * No existe límite de palabras en una partida personalizada.
 * Cualquier entrada de dato que no sea una letra contará como fallo.
