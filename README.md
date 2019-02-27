@@ -10,7 +10,7 @@ MANUAL:
 # =====
 # =   O
 # = --|--
-# =  | |
+# =   | |
 # =
 # ======
 * Las palabras en cada partida se generan de forma aleatoria.
