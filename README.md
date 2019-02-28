@@ -11,3 +11,12 @@ Menú:
 * No existe límite de palabras en una partida personalizada.
 * Cualquier entrada de dato que no sea una letra contará como fallo.
 * Introducir letras erróneas dos o más veces no contará como error.
+
+# Ejecutar
+El archivo ejecutable es "ahorcado.jar", los demás son los códigos fuente del mismo.
+Para ejecutar el juego:
+1. Descargar "ahorcado.jar".
+2. Abrir CMD e ir a la ubicación del archivo.
+3. Ejecutar: java -jar ahorcado.jar
+
+*Requerimientos: Tener Java JSE instalado para poder ejecutar el comando.
